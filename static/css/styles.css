@@ -1,0 +1,9 @@
+img.rounded-xl {
+    width: 100%;
+}
+img.rounded-t-xl {
+    width: 100%;
+}
+.search{
+    border:revert-layer;
+}
